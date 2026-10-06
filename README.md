@@ -1,5 +1,7 @@
 # signal402-mcp
 
+[![smithery badge](https://smithery.ai/badge/amir-alimardani/signal402-mcp)](https://smithery.ai/servers/amir-alimardani/signal402-mcp)
+
 [![Glama](https://glama.ai/mcp/servers/signal402-mcp/badge)](https://glama.ai/mcp/servers/signal402-mcp)
 
 MCP server for [signal402](https://signal402.persikos.com) — parse raw TradingView alert text into structured JSON signals.
