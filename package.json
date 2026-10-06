@@ -1,0 +1,28 @@
+{
+  "name": "signal402-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for signal402 — parse TradingView alert text to normalized JSON signals",
+  "main": "index.js",
+  "bin": {
+    "signal402-mcp": "index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "mcp",
+    "tradingview",
+    "signal",
+    "trading",
+    "alert",
+    "finance"
+  ],
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  }
+}
